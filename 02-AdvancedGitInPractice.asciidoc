@@ -1,2 +1,2 @@
 == Chatper 2
-Practice doesn't make perfect; perfect practice makes perfect!
+// TODO: write two chapters
