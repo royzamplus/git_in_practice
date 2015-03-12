@@ -1,1 +1,2 @@
 = Git In Practice
+The holy anticipated prequel to Git In Praxis
